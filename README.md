@@ -1,7 +1,7 @@
 # Workflow for the Identification of Novel Inhibitors for ABL1
 **Authors**: Emmelie van der Veer, Lichelle Yeung, Ruben van Delden, Richard Salomons, Maximilian Falkner
 
-This project describes the workflow for identifying chemically diverse and novel tyrosine kinase inhibitors targetting ABL1 for treating chronic myeloid leukaemia. Our work here includes QSAR modelling, virtual screening, clustering and docking based on the methods described in TeachOpenCADD (Sydow, D. et al. TeachOpenCADD 2022: open source and FAIR Python pipelines to assist in structural bioinformatics and cheminformatics research. Nucleic Acids Res 50, (2022). and CBR_teaching https://github.com/jesperswillem/CBR_teaching)
+This project describes a workflow for identifying chemically diverse and novel tyrosine kinase inhibitors targetting ABL1 for treating chronic myeloid leukaemia. Our work here includes QSAR modelling, virtual screening, clustering and docking based on the methods described in TeachOpenCADD (Sydow, D. et al. TeachOpenCADD 2022: open source and FAIR Python pipelines to assist in structural bioinformatics and cheminformatics research. Nucleic Acids Res 50, (2022). and CBR_teaching https://github.com/jesperswillem/CBR_teaching)
 
 ![Picture3](https://github.com/user-attachments/assets/57c13da9-b41b-4f96-ba17-989d2f68ecb0)
 
